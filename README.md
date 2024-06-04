@@ -15,7 +15,7 @@
     </td>
     
 <td>
-  <a href = "https://x.com/aghera82267?t=ZObpStS0QXtivcU_CKpdVQ&s=09"><img height="40" width="40" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" /></a> 
+  <a href = "https://x.com/aghera82267?t=ZObpStS0QXtivcU_CKpdVQ&s=09"><img height="40" width="50" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" /></a> 
 </td>
     <td>
       
