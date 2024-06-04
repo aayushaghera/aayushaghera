@@ -123,8 +123,36 @@
   </tr>
 
 
+### 🧑🏻‍💻 Tools & Platform
 
-
+<table align="center">
+  <tr>
+  <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Vscode" title="Vscode" />
+      <br>Vscode
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" alt="Idea" title="Idea" />
+      <br>Idea
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="Github" title="Github" />
+      <br>Github
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="Mysql" title="Mysql" />
+      <br>Mysql
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres" title="Postgres" />
+      <br>Postgres
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" title="Postman" />
+      <br>Postman 
+    </td>
+    </tr>
+  <tr>
 
 
 
