@@ -157,9 +157,16 @@
   <tr>
   </table>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayushaghera&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushaghera&theme=radical" alt="GitHub Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushaghera&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <p align="center">
