@@ -121,7 +121,7 @@
       <br>React
     </td>
   </tr>
-
+  </table>
 
 ### 🧑🏻‍💻 Tools & Platform
 
