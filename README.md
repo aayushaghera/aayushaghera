@@ -83,7 +83,39 @@
 
 
 
-
+### 💻 Libraries & Framework
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" title="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="45" height="45" alt="numpy" title="numpy" />
+      <br>Numpy
+    </td>
+    </td>
+        <td align="center" width="90">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg" width="45" height="45" alt="pandas" title="pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="sklearn" title="sklearn" />
+      <br>Sklearn
+    </td>
+    <td align="center" width="90">
+      <img src="https://tse4.mm.bing.net/th?id=OIP.JLs4N8hbFGu6zgH0uNRv7AAAAA&pid=Api&P=0&h=180" width="45" height="45" alt="matplotlib" title="sklearn" />
+      <br>matplotlib
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJs" title="NodeJs" />
+      <br>NodeJs
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
+      <br>React
+    </td>
+  </tr>
 
 
 
