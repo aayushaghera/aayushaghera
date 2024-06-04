@@ -77,7 +77,11 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="python" title="python" />
       <br>Python
     </td>
-   
+    <tr>
+<td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
+      <br>React
+    </td>
     
   </tr>
 </table>
