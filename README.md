@@ -79,7 +79,7 @@
     </td>
     <tr>
 <td align="center" width="90">
-      <img src="http://pngimg.com/uploads/php/php_PNG27.png" width="45" height="45" alt="php" title="php" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="php" title="php" />
       <br>php
     </td>
     
