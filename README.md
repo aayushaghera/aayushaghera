@@ -29,3 +29,32 @@
     
   </tr>
 </table>
+
+
+<hr>
+
+# 💫 About Me:
+
+  - 🔭 I am Student of Information Technology 🎓 at DHARMSINH DESAI UNIVERSITY
+  - 🌱 I'm currently exploring Machine Learning 
+  - 💬 Ask me about **Machine Learning ,Data Science,web devlopment,DSA,DBMS**
+
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
