@@ -159,12 +159,10 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushaghera&style=flat-square&color=blue">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushaghera&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushaghera&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://komarev.com/ghpvc/?username=aayushaghera&style=flat-square&color=blue">
 </p>
-
-
 
