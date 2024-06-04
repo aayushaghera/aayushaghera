@@ -79,8 +79,8 @@
     </td>
     <tr>
 <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
-      <br>React
+      <img src="https://tse1.mm.bing.net/th?id=OIP.E-f8K-3EOvzOBOZs9dQSfwHaHa&pid=Api&P=0&h=180" width="45" height="45" alt="php" title="php" />
+      <br>php
     </td>
     
   </tr>
