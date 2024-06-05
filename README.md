@@ -160,6 +160,9 @@
     </td>
   <tr>
   </table>
+
+
+# ⚡ Stats:  
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushaghera&style=flat-square&color=blue">
