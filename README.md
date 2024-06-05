@@ -82,7 +82,7 @@
     </td>
     <tr>
 <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/onemarc/tech-icons/0422d950bcddb598510f91e1d8eb076e22f032ca/icons/php-dark.svg" width="45" height="45" alt="php" title="php" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" width="45" height="45" alt="php" title="php" />
       <br>php
     </td>
     
