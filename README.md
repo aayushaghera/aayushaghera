@@ -155,8 +155,8 @@
       <br>Postman 
     </td>
     <td align="center" width="90">
-      <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="45" height="45" alt="Power Bi" title="Power Bi" />
-      <br>Power Bi
+      <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="45" height="45" alt="Power BI" title="Power BI" />
+      <br>Power BI
     </td>
   <tr>
   </table>
