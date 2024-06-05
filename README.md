@@ -163,6 +163,9 @@
 
 
 # ⚡ Stats:  
+<div align = "left">
+<h2><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-bvyak&psig=AOvVaw2IS1lzARP6eFOBJ5q3zxip&ust=1717654719817000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjT78_ow4YDFQAAAAAdAAAAABAQ" width="40" height="40"> Github Stats</h2>
+</div>
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushaghera&style=flat-square&color=blue">
