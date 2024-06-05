@@ -163,7 +163,7 @@
 
 
 
-# <img src="https://giphy.com/stickers/transparent-emoji-emojivid-fxT9TYmgjBloBaLxL2" width="40"> Stats :
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV6anU1dmhtdTZvZngybmZoYjM4dXg1MjdscjRlZDN4MXBzeG9uNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fxT9TYmgjBloBaLxL2/giphy.webp" width="60"> Stats :
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushaghera&style=flat-square&color=blue">
 </p>
