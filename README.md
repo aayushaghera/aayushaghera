@@ -112,7 +112,7 @@
       <br>Sklearn
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/onemarc/tech-icons/0422d950bcddb598510f91e1d8eb076e22f032ca/icons/matplotlib-light.svg" width="45" height="45" alt="matplotlib" title="sklearn" />
+      <img src="https://raw.githubusercontent.com/onemarc/tech-icons/0422d950bcddb598510f91e1d8eb076e22f032ca/icons/matplotlib-dark.svg" width="45" height="45" alt="matplotlib" title="sklearn" />
       <br>matplotlib
     </td>
      <td align="center" width="90">
