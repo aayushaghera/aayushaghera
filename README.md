@@ -170,38 +170,6 @@
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushaghera&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 <hr/>
-
-
-<br/><br/>
-
-<hr/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushaghera&style=flat-square&color=blue">
 </p>
