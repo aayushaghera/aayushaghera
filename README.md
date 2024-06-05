@@ -164,6 +164,52 @@
 
 
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV6anU1dmhtdTZvZngybmZoYjM4dXg1MjdscjRlZDN4MXBzeG9uNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fxT9TYmgjBloBaLxL2/giphy.webp" width="80"> Stats :
+
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushaghera&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushaghera&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-aayushaghera.vercel.app/api/top-langs/?username=aayushaghera&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushaghera&style=flat-square&color=blue">
 </p>
