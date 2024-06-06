@@ -137,12 +137,12 @@
 <table align="center">
   <tr>
   <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Vscode" title="Vscode" />
-      <br>Vscode
+      <img src="https://raw.githubusercontent.com/onemarc/tech-icons/0422d950bcddb598510f91e1d8eb076e22f032ca/icons/powerbi-dark.svg" width="45" height="45" alt="Power BI" title="Power BI" />
+      <br>Power BI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" alt="Idea" title="Idea" />
-      <br>Idea
+      <img src="https://raw.githubusercontent.com/onemarc/tech-icons/7da795fdf4a64899eccba31003b6cb64a5516f49/icons/jupyter-dark.svg" width="45" height="45" alt="Jupyter" title="Jupyter" />
+      <br>Jupyter
     </td>
      <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="Github" title="Github" />
@@ -161,13 +161,14 @@
       <br>Postman 
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/onemarc/tech-icons/0422d950bcddb598510f91e1d8eb076e22f032ca/icons/powerbi-dark.svg" width="45" height="45" alt="Power BI" title="Power BI" />
-      <br>Power BI
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Vscode" title="Vscode" />
+      <br>Vscode
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/onemarc/tech-icons/7da795fdf4a64899eccba31003b6cb64a5516f49/icons/jupyter-dark.svg" width="45" height="45" alt="Jupyter" title="Jupyter" />
-      <br>Jupyter
-    </td>
+      <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" alt="Idea" title="Idea" />
+      <br>Idea
+    </td>
+    
   <tr>
   </table>
 
