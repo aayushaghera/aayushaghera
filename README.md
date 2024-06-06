@@ -173,9 +173,13 @@
 </div>
 
 <hr/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushaghera&style=flat-square&color=blue">
-</p>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=VishwaGauravIn&icon=1" alt="profile views"/>
+  </a>
+</div>
 
 
-[![](https://visitcount.itsvg.in/api?id=aayushaghera26&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
