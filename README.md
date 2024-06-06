@@ -115,13 +115,13 @@
       <img src="https://raw.githubusercontent.com/onemarc/tech-icons/0422d950bcddb598510f91e1d8eb076e22f032ca/icons/matplotlib-dark.svg" width="45" height="45" alt="matplotlib" title="sklearn" />
       <br>matplotlib
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJs" title="NodeJs" />
-      <br>NodeJs
-    </td>
     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/OpenCV-Dark.svg" width="45" height="45" alt="OpenCv" title="OpenCv" />
       <br>OpenCv
+    </td>
+  <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJs" title="NodeJs" />
+      <br>NodeJs
     </td>
     <tr>
 <td align="center" width="90">
