@@ -120,9 +120,15 @@
       <br>NodeJs
     </td>
     <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/OpenCV-Dark.svg" width="45" height="45" alt="OpenCv" title="OpenCv" />
+      <br>OpenCv
+    </td>
+    <tr>
+<td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
       <br>React
     </td>
+  
   </tr>
   </table>
 
