@@ -169,6 +169,9 @@
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushaghera&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushaghera&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushaghera&theme=react&border_radius=10" alt="most used languages"/>
+</div>
+
 <hr/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushaghera&style=flat-square&color=blue">
