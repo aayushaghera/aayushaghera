@@ -177,3 +177,5 @@
   <img src="https://komarev.com/ghpvc/?username=aayushaghera&style=flat-square&color=blue">
 </p>
 
+
+https://visitcount.itsvg.in/api?id=aayushaghera&icon=0&color=0)](https://visitcount.itsvg.in
