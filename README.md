@@ -176,9 +176,10 @@
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=aayushaghera&icon=8" alt="profile views"/>
+    <img src="https://visitcount.itsvg.in/api?id=aayushaghera26&icon=0&color=0" alt="profile views"/>
   </a>
 </div>
+
 
 
 
