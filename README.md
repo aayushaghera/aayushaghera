@@ -25,7 +25,7 @@
 <a href = ""><img height="40" width="40" src="https://cdn.simpleicons.org/youtube" /></a>
     </td>
      <td>
-      <a href = "https://leetcode.com/u/aayushaghera/"><img height="40" width="40" src="https://cdn.simpleicons.org/leetcode" /></a> 
+      <a href = "https://leetcode.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/leetcode" /></a> 
     </td>
      
     
