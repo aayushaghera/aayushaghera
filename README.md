@@ -40,7 +40,7 @@
 
   - 🔭 I am Student of Information Technology 🎓 at DHARMSINH DESAI UNIVERSITY
   - 🌱 I'm currently exploring Docker 
-  - 💬 Ask me about **web devlopment,DSA,DBMS**
+  - 💬 Ask me about ** FullStack web devlopment,DSA,DBMS**
   - 📫 How to reach me **aayushaghera@gmail.com**
 
 
