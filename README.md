@@ -39,7 +39,7 @@
 # 💫 About Me:
 
   - 🔭 I am Student of Information Technology 🎓 at DHARMSINH DESAI UNIVERSITY
-  - 🌱 I'm currently exploring Reactjs
+  - 🌱 I'm currently exploring Docker 
   - 💬 Ask me about **web devlopment,DSA,DBMS**
   - 📫 How to reach me **aayushaghera@gmail.com**
 
