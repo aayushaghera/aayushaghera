@@ -13,9 +13,6 @@
     <td>
       <a href = "https://www.instagram.com/invites/contact/?igsh=MXExb2Q4ZHE2Ymowdw==&utm_content=honzqdf"><img height="40" width="40" src="https://cdn.simpleicons.org/instagram" /></a> 
     </td>
-    <td>
-      <a href = "https://www.linkedin.com/in/aayush-aghera-15b869275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin" /></a> 
-    </td>
     
 <td>
   <a href = "https://x.com/aghera82267?t=ZObpStS0QXtivcU_CKpdVQ&s=09"><img height="40" width="50" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" /></a> 
@@ -40,7 +37,6 @@
 
   - 🔭 I am Student of Information Technology 🎓 at DHARMSINH DESAI UNIVERSITY
   - 🌱 I'm currently exploring Docker 
-  - 💬 Ask me about ** FullStack web devlopment,DSA,DBMS**
   - 📫 How to reach me **aayushaghera@gmail.com**
 
 
@@ -186,9 +182,6 @@
 <hr/>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=aayushaghera26&icon=0&color=3" alt="profile views"/>
-  </a>
 </div>
 
 
